@@ -36,9 +36,9 @@ The cryptocurrencies were then clustered using a scatter plot once again using t
 ## Composite Plots
 Composite plots are shown below to compare both the elbow plots and the scatter plots. </br>
 </br>
-![Elbow Composite](elbow_composite.JPG)
+![Elbow Composite](Images/elbow_composite.JPG)
 </br>
-![Scatter Composite](scatter_composite.JPG)
+![Scatter Composite](Images/scatter_composite.JPG)
 
 ## Technologies Used
 [Python 3.10 or higher](https://www.python.org/) </br>
