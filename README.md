@@ -8,7 +8,7 @@ The first task that needed to be done was to import the data from the provided C
 ![Original Plot](Images/original_plot.JPG) 
 
 ## Data Preparation
-Next the original data was then standardized using the `StandardScaler` moduel from `scikit-learn`. A new DataFrame was then created using the scaled data.
+Next, the original data was then standardized using the `StandardScaler` moduel from `scikit-learn`. A new DataFrame was then created using the scaled data.
 
 ## Elbow Plot
 Using the original scaled data, an elbow plot was then created in order to find the best value for k which turned out to be k=4 as shown below. </br>
